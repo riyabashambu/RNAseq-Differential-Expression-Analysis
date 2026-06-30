@@ -1,0 +1,17 @@
+# R temporary files
+.Rhistory
+.RData
+.RDataTmp
+
+# RStudio
+.Rproj.user/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+data/raw/
